@@ -1,64 +1,73 @@
-# ⚡ Sami Ullah | Data Science Student
+# ⚡ Sami Ullah | Data Science
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C1F,50:12304A,100:00D9FF&height=190&section=header&text=Sami%20Ullah&fontSize=58&fontColor=FFFFFF&fontAlignY=38&fontFamily=Montserrat&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20ANALYTICS&descSize=15&descAlignY=60&descColor=8BE9FD" alt="Sami Ullah header"/>
 
 **BS Data Science Student @ Virtual University of Pakistan**
-🐍 Building Python Foundations | 📊 Data Analysis | 🧠 Problem Solving
+
+*Learning • Building • Analyzing • Improving*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samiullah-data-science/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/SamiUllah-DataScientist)
+![Profile Views](https://komarev.com/ghpvc/?username=SamiUllah-DataScientist&style=flat-square&color=00D9FF)
+
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+### 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+I'm a Data Science student building a strong foundation in Python, data processing, and problem-solving through hands-on projects.
 
----
+- 🐍 Practicing Python and data structures
+- 📊 Exploring data analysis and business logic
+- 🚀 Building practical programming projects
+- 🎯 Working toward Data Science and Machine Learning
 
-## 🚀 Current Focus
+### 🛠️ Tech Stack
 
-Currently strengthening Python through **hands-on practice, problem solving, data structures, loops, and small real-world projects** while building toward practical Data Science skills.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,jupyter,mysql,git,github,vscode&theme=dark" alt="Technology stack"/>
+</p>
 
-### What I'm Practicing
+### 🚀 Featured Projects
 
-* Python fundamentals
-* Lists, Tuples, Sets & Dictionaries
-* `for` & `while` loops
-* Basic data processing & analysis
-* Git & GitHub
+- 🎓 **Student Performance Analyzer** — Marks, averages, percentages, and performance reports.
+- 📊 **Sales Analyzer** — Sales totals, sorting, filtering, and business calculations.
+- 👥 **Customer Data Analysis** — Customer comparisons, unique records, and duplicate detection.
+- 🏧 **ATM Simulation** — Interactive deposits, withdrawals, and balance management.
 
----
+[**Explore All Projects →**](https://github.com/SamiUllah-DataScientist?tab=repositories)
 
-## 📌 Hands-On Projects
+### 📈 GitHub Analytics
 
-* 🎓 **Student Academic Performance Analyzer** — student marks, percentages, averages, attendance and performance classification.
-* 📊 **Weekly & E-Commerce Sales Analyzer** — sales totals, averages, sorting, filtering, thresholds and basic business analysis.
-* 👥 **Customer Data Analysis** — campaign comparison, unique customers, duplicate detection and customer balance analysis.
-* 🏧 **ATM Simulation** — interactive banking application with balance checking, deposits, withdrawals and transaction logic.
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamiUllah-DataScientist&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiUllah-DataScientist&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=SamiUllah-DataScientist&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+</div>
 
----
+### 🎯 Learning Roadmap
 
-## 🧭 Learning Path
+`Python` → `NumPy & Pandas` → `Data Analysis` → `Statistics` → `Machine Learning`
 
-**Python → Data Analysis → Statistics → Machine Learning**
+### 🎓 Academic Highlights
 
-I'm following a **learn → practice → build → improve** approach, focusing on practical implementation rather than certificates alone.
-
----
-
-## 🎓 Academic Highlights
-
-* 🏆 **Matriculation:** 1062 / 1100
-* 💻 **Intermediate Computer Science:** 194 / 200
-* 🧮 **Intermediate Mathematics:** 188 / 200
-* 🎓 **BS Data Science:** 3.7+ CGPA
+- **Matriculation:** 1062 / 1100
+- **Intermediate Computer Science:** 194 / 200
+- **Intermediate Mathematics:** 188 / 200
+- **BS Data Science:** 3.7+ CGPA
 
 ---
 
-## 🔗 Connect With Me
+<div align="center">
 
-💼 [LinkedIn](https://www.linkedin.com/in/samiullah-data-science/)
-🐙 [GitHub](https://github.com/SamiUllah-DataScientist)
+**Let's connect and grow together.**
 
-> **Learn. Build. Analyze. Improve. 🚀**
+[LinkedIn](https://www.linkedin.com/in/samiullah-data-science/) · [GitHub](https://github.com/SamiUllah-DataScientist)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C1F,50:12304A,100:00D9FF&height=90&section=footer" alt="Footer"/>
+
+</div>
